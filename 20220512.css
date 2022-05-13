@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+.container{
+    background-color: #fff;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+table{
+    margin: auto;
+}
+td{
+    border: 1px solid black;
+    border-collapse: center;
+    width: 50pt;
+}
